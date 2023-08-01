@@ -1,0 +1,328 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.king {
+    background-image: url(image/IN-en-20230724-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+.navbar img {
+    width: 200px;
+    height: 150px;
+}
+
+.min {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.mine select {
+    border: solid 4px;
+    border-radius: 10px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.434);
+    color: white;
+    width: 90px;
+    height: 40px;
+}
+
+.mine button {
+    width: 30px;
+    border-radius: 10px;
+    color: white;
+    background-color: brown;
+    width: 70px;
+    height: 30px;
+    position: relative;
+    left: 10px;
+}
+
+.cr7 {
+    font-family: sans-serif;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    margin: 200px;
+    line-height: 60px;
+}
+
+.dr input {
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    left: 20px;
+    top: 60px;
+    width: 400px;
+    height: 50px;
+}
+
+.dr button {
+    color: white;
+    font-size: 20px;
+    background-color: brown;
+    border-radius: 9px;
+    position: relative;
+    left: 30px;
+    top: 60px;
+    width: 200px;
+    height: 50px;
+}
+
+.ry img {
+    width: 600px;
+    height: 500px;
+}
+
+.ry {
+    line-height: 70px;
+    font-family: sans-serif;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    text-align: justify;
+}
+
+.ry {
+    background-color: black;
+    height: 1000px;
+}
+
+.for {
+    background-color: black;
+    height: 100vh;
+}
+
+.box1 img {
+    margin-top: 130px;
+}
+
+.box2 {
+    font-size: 23px;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    position: relative;
+    top: -290px;
+    left: 270px;
+}
+
+.box3 {
+    font-size: 27px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: -270px;
+    left: 270px;
+}
+
+.hello {
+    background-color: black;
+    height: 100vh;
+}
+
+.hello img {
+    width: 600px;
+    height: 500px;
+}
+
+.hello {
+    line-height: 70px;
+    font-family: sans-serif;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    text-align: justify;
+}
+
+.km {
+    background-color: black;
+    height: 100vh;
+}
+
+.cool1 img {
+    margin-top: 130px;
+}
+
+.cool2 {
+    font-size: 23px;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    position: relative;
+    top: -290px;
+    left: 270px;
+}
+
+.cool3 {
+    font-size: 27px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: -270px;
+    left: 270px;
+}
+
+.wow {
+    background-color: black;
+    height: 140vh;
+}
+
+.see {
+    color: aliceblue;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.see h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    position: relative;
+    top: 70px;
+}
+
+.good {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    top: 150px;
+}
+
+.good button {
+    border-radius: 10px;
+    font-size: 30px;
+    color: aliceblue;
+    width: 1000px;
+    height: 80px;
+    background-color: rgba(128, 128, 128, 0.429);
+    text-align: justify;
+}
+
+.no {
+    font-family: sans-serif;
+    color: aliceblue;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    top: 200px;
+}
+
+.no input {
+    border-radius: 10px;
+    width: 500px;
+    height: 60px;
+    position: relative;
+    top: 30px;
+}
+
+.no button {
+    border-radius: 10px;
+    color: white;
+    background-color: brown;
+    width: 190px;
+    height: 60px;
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+
+.main7 {
+    background-color: red;
+    height: 500px;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+.css13 p {
+    color: white;
+}
+
+.css13 a {
+    color: white;
+}
+
+.css14 {
+    display: flex;
+    text-align: justify;
+}
+
+.css15 a {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    line-height: 35px;
+}
+
+.css15 select {
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+
+.css15 p {
+    color: white;
+}
+
+.css16 a {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    line-height: 35px;
+    margin-left: 300px;
+}
+
+/* mobile */
+@media screen and (max-width:450px) {
+    .navbar img {
+        width: 50px;
+        height: 40px;
+    }
+
+    .we{
+        margin-left: -80px;
+        font-size: 15px;
+        white-space: nowrap;
+    }
+
+    .king {
+        width: 400px;
+        height: 700px;
+    }
+
+    .cr7 {
+        margin-top: 20px;
+        margin-left: 90px;
+        width: 100px;
+        height: 4px;
+        font-size: 20px;
+    }
+
+    .dr {
+        margin-top: 20px;
+    }
+
+    .ry img {
+        width: 300px;
+        height: 200px;
+    }
+
+   
+}
